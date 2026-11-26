@@ -11,7 +11,3 @@ crate-type = ["cdylib"]
 
 [dependencies]
 skyline = "0.2.0"
-smash = { git = "https://github.com" }
-smash_script = { git = "https://github.com" }
-smashline = { git = "https://github.com", tag = "v2.0.0" }
-
